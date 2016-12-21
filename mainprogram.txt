@@ -1,5 +1,6 @@
-relise 1.0
+relise 1.0 fix 1.01
 
-string1
+string1 + change
+string1.1
 string2
 string3
