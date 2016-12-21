@@ -1,6 +1,7 @@
-relise 1.0 fix 1.01
+relise 1.0 dev 1.12 fix 1.01
 
 string1 + change
 string1.1
 string2
 string3
+string4 //v1.12
