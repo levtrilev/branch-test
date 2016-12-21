@@ -1,6 +1,7 @@
-relise 1.0 dev 1.1
+relise 1.0 dev 1.11
 
-string1
+string1+change
 string1.5
 //string2
-string3
+string 2.5
+string3+change
