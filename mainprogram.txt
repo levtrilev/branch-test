@@ -1,5 +1,6 @@
-relise 1.0
+relise 1.0 dev 1.1
 
 string1
-string2
+string1.5
+//string2
 string3
